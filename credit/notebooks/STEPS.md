@@ -8,7 +8,7 @@
 ### Criar ambiente virtual
 
 ```bash
-conda create -n neurolake python==3.11.9
+conda create -n neurolake python==3.12.4
 conda activate neurolake
 pip install -r requirements.txt
 ```
