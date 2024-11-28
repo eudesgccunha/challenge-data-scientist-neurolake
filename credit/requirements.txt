@@ -8,3 +8,4 @@ uvicorn==0.32.1
 fastapi[standard]==0.112.0
 lightgbm==4.5.0
 yellowbrick==1.5
+xgboost==2.1.3
